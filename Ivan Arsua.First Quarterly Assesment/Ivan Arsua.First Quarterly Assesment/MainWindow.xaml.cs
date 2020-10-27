@@ -24,5 +24,11 @@ namespace Ivan_Arsua.First_Quarterly_Assesment
         {
             InitializeComponent();
         }
+
+        private void btnProblems_Click(object sender, RoutedEventArgs e)
+        {
+            Problems.ProblemsWindow problemsWindow = new Problems.ProblemsWindow();
+            problemsWindow.Show();
+        }
     }
 }

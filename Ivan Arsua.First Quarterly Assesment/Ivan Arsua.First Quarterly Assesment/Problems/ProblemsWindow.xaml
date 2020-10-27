@@ -1,0 +1,40 @@
+﻿<Window x:Class="Ivan_Arsua.First_Quarterly_Assesment.Problems.ProblemsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ivan_Arsua.First_Quarterly_Assesment.Problems"
+        mc:Ignorable="d"
+        Title="ProblemsWindow" Height="822" Width="1004">
+    <Grid Margin="0,-16,0,0">
+        <Label x:Name="lblTitle" Content="Label" HorizontalAlignment="Left" Height="38" Margin="10,29,0,0" VerticalAlignment="Top" Width="228"/>
+        <Label x:Name="lblDiabetes" Content="Label" HorizontalAlignment="Left" Height="38" Margin="10,84,0,0" VerticalAlignment="Top" Width="228"/>
+        <Label x:Name="lblMedications" Content="Label" HorizontalAlignment="Left" Height="38" Margin="10,136,0,0" VerticalAlignment="Top" Width="228"/>
+        <Label x:Name="lblMedicationsClasses" Content="Label" HorizontalAlignment="Left" Height="38" Margin="10,188,0,0" VerticalAlignment="Top" Width="228"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="290" Margin="22,243,0,0" VerticalAlignment="Top" Width="418"/>
+        <Label x:Name="lblClassName" Content="Label" HorizontalAlignment="Left" Height="38" Margin="34,262,0,0" VerticalAlignment="Top" Width="180"/>
+        <Label x:Name="lblAssociatedDrug" Content="Label" HorizontalAlignment="Left" Height="38" Margin="34,318,0,0" VerticalAlignment="Top" Width="180"/>
+        <Label x:Name="lblDose" Content="Label" HorizontalAlignment="Left" Height="38" Margin="34,422,0,0" VerticalAlignment="Top" Width="180"/>
+        <Label x:Name="lblName" Content="Label" HorizontalAlignment="Left" Height="38" Margin="34,369,0,0" VerticalAlignment="Top" Width="180"/>
+        <Label x:Name="lblStrength" Content="Label" HorizontalAlignment="Left" Height="38" Margin="34,480,0,0" VerticalAlignment="Top" Width="180"/>
+        <Label x:Name="lblAssociatedDrug2" Content="Label" HorizontalAlignment="Left" Height="38" Margin="232,318,0,0" VerticalAlignment="Top" Width="180"/>
+        <Label x:Name="lblName2" Content="Label" HorizontalAlignment="Left" Height="38" Margin="232,369,0,0" VerticalAlignment="Top" Width="180"/>
+        <Label x:Name="lblDose2" Content="Label" HorizontalAlignment="Left" Height="38" Margin="232,422,0,0" VerticalAlignment="Top" Width="180"/>
+        <Label x:Name="lblStrength2" Content="Label" HorizontalAlignment="Left" Height="38" Margin="232,480,0,0" VerticalAlignment="Top" Width="180"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="290" Margin="470,243,0,0" VerticalAlignment="Top" Width="496"/>
+        <Label x:Name="lblAssociatedDrug3" Content="Label" HorizontalAlignment="Left" Height="38" Margin="486,318,0,0" VerticalAlignment="Top" Width="180"/>
+        <Label x:Name="lblClassName2" Content="Label" HorizontalAlignment="Left" Height="38" Margin="486,262,0,0" VerticalAlignment="Top" Width="180"/>
+        <Label x:Name="lblName3" Content="Label" HorizontalAlignment="Left" Height="38" Margin="486,369,0,0" VerticalAlignment="Top" Width="180"/>
+        <Label x:Name="lblDose3" Content="Label" HorizontalAlignment="Left" Height="38" Margin="486,422,0,0" VerticalAlignment="Top" Width="180"/>
+        <Label x:Name="lblStrength3" Content="Label" HorizontalAlignment="Left" Height="38" Margin="486,480,0,0" VerticalAlignment="Top" Width="180"/>
+        <Label x:Name="lblAssociatedDrugs4" Content="Label" HorizontalAlignment="Left" Height="38" Margin="712,318,0,0" VerticalAlignment="Top" Width="180"/>
+        <Label x:Name="lblName4" Content="Label" HorizontalAlignment="Left" Height="38" Margin="712,369,0,0" VerticalAlignment="Top" Width="180"/>
+        <Label x:Name="lblDose4" Content="Label" HorizontalAlignment="Left" Height="38" Margin="712,422,0,0" VerticalAlignment="Top" Width="180"/>
+        <Label x:Name="lblStrength4" Content="Label" HorizontalAlignment="Left" Height="38" Margin="712,480,0,0" VerticalAlignment="Top" Width="180"/>
+        <Label x:Name="lblLabs" Content="Label" HorizontalAlignment="Left" Height="38" Margin="28,562,0,0" VerticalAlignment="Top" Width="228"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="66" Margin="22,620,0,0" VerticalAlignment="Top" Width="268"/>
+        <Label x:Name="lblMissingField" Content="Label" HorizontalAlignment="Left" Height="38" Margin="34,634,0,0" VerticalAlignment="Top" Width="228"/>
+        <Label x:Name="lblAsthma" Content="Label" HorizontalAlignment="Left" Height="38" Margin="26,717,0,0" VerticalAlignment="Top" Width="228"/>
+
+    </Grid>
+</Window>

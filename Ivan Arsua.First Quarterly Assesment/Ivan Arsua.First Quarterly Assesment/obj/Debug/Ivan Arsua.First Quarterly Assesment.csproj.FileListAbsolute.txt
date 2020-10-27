@@ -1,0 +1,20 @@
+C:\Users\Dell\Documents\Major-ICT Activties\First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\bin\Debug\Ivan Arsua.First Quarterly Assesment.exe.config
+C:\Users\Dell\Documents\Major-ICT Activties\First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\bin\Debug\Ivan Arsua.First Quarterly Assesment.exe
+C:\Users\Dell\Documents\Major-ICT Activties\First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\bin\Debug\Ivan Arsua.First Quarterly Assesment.pdb
+C:\Users\Dell\Documents\Major-ICT Activties\First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\Major-ICT Activties\First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Documents\Major-ICT Activties\First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\obj\Debug\Ivan Arsua.First Quarterly Assesment.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Major-ICT Activties\First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Documents\Major-ICT Activties\First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\obj\Debug\Problems\ProblemsWindow.g.cs
+C:\Users\Dell\Documents\Major-ICT Activties\First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\obj\Debug\App.g.cs
+C:\Users\Dell\Documents\Major-ICT Activties\First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\obj\Debug\Ivan Arsua.First Quarterly Assesment_MarkupCompile.cache
+C:\Users\Dell\Documents\Major-ICT Activties\First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\obj\Debug\Ivan Arsua.First Quarterly Assesment_MarkupCompile.lref
+C:\Users\Dell\Documents\Major-ICT Activties\First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\obj\Debug\MainWindow.baml
+C:\Users\Dell\Documents\Major-ICT Activties\First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\obj\Debug\Problems\ProblemsWindow.baml
+C:\Users\Dell\Documents\Major-ICT Activties\First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\obj\Debug\Ivan Arsua.First Quarterly Assesment.g.resources
+C:\Users\Dell\Documents\Major-ICT Activties\First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\obj\Debug\Ivan_Arsua.First_Quarterly_Assesment.Properties.Resources.resources
+C:\Users\Dell\Documents\Major-ICT Activties\First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\obj\Debug\Ivan Arsua.First Quarterly Assesment.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Major-ICT Activties\First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\obj\Debug\Ivan Arsua.First Quarterly Assesment.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Major-ICT Activties\First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\obj\Debug\Ivan Arsua.First Quarterly Assesment.csproj.CopyComplete
+C:\Users\Dell\Documents\Major-ICT Activties\First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\obj\Debug\Ivan Arsua.First Quarterly Assesment.exe
+C:\Users\Dell\Documents\Major-ICT Activties\First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\Ivan Arsua.First Quarterly Assesment\obj\Debug\Ivan Arsua.First Quarterly Assesment.pdb
