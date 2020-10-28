@@ -31,9 +31,18 @@ namespace Ivan_Arsua.First_Quarterly_Assesment.Problems
                 problems = JsonConvert.DeserializeObject<Problems>(json);
                 
             }
+            InitializeComponent();
+            diabetes Diabetes = new diabetes();
+            using (StreamReader r = new Streamreader("Data\\json3.json"))
+            {
+                string json = r.ReadToEnd();
+                Diabetes = JsonConvert.DeserializeObject<diabetes>(json);
+            }
+            
             lblProblems.Content = " Problems" + problems.problems;
             lblDiabetes.Content = " Diabetes" + problems.Diabetes;
-            lblMedications.Content = "Medications" + problems.medications;
+            lblMedications.Content = "Medications" + Diabetes.medications;
+            lblMedicationsClasses.Content = " medicationsClasses" + Diabetes.medicationsClasses;
         }
     }
 }
