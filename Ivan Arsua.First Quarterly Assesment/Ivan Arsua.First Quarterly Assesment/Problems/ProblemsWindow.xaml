@@ -34,7 +34,7 @@
         <Label x:Name="lblLabs" Content="Label" HorizontalAlignment="Left" Height="38" Margin="28,562,0,0" VerticalAlignment="Top" Width="228"/>
         <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="66" Margin="22,620,0,0" VerticalAlignment="Top" Width="268"/>
         <Label x:Name="lblMissingField" Content="Label" HorizontalAlignment="Left" Height="38" Margin="34,634,0,0" VerticalAlignment="Top" Width="228"/>
-        <Label x:Name="lblAsthma" Content="Label" HorizontalAlignment="Left" Height="38" Margin="26,717,0,0" VerticalAlignment="Top" Width="228"/>
+        <Label x:Name="lblAsthma" Content="Label" HorizontalAlignment="Left" Height="38" Margin="486,188,0,0" VerticalAlignment="Top" Width="228"/>
 
     </Grid>
 </Window>

@@ -31,7 +31,7 @@ namespace Ivan_Arsua.First_Quarterly_Assesment.Problems
                 problems = JsonConvert.DeserializeObject<Problems>(json);
                 
             }
-            lblTitle.Content = " Problems" + problems.problems;
+            lblProblems.Content = " Problems" + problems.problems;
             lblDiabetes.Content = " Diabetes" + problems.Diabetes;
             lblMedications.Content = "Medications" + problems.medications;
         }
